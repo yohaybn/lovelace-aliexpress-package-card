@@ -10,6 +10,6 @@
   { "code": "sv", "name": "Svenska" },
   { "code": "pt", "name": "Português" },
   { "code": "cs", "name": "Čeština" },
-  { "code": "ru", "name": "Русский" }
-  
+  { "code": "ru", "name": "Русский" },
+  { "code": "lt", "name": "Lietuviškai" }
 ]
